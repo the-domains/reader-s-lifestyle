@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Reader's Lifestyle]]></title>
         <description><![CDATA[Reader's Lifestyle]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.readerslifestyle.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 23:07:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 19:26:25 GMT</lastBuildDate>
+        <atom:link href="http://www.readerslifestyle.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Business Author]]></title>
+            <description><![CDATA[<article><h1>Business Author</h1><h2>John Jantsch </h2><p>These are the authors that have shaped my perspective on business.</p></article>]]></description>
+            <link>http://www.readerslifestyle.com/business-author/index.html</link>
+            <guid isPermaLink="false">9bd9f054-c8b1-4800-b795-18f532532829</guid>
+            <pubDate>Fri, 11 Mar 2016 19:25:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c8cd8ee-6ae9-4ca2-9af2-48dab23ccffc.jpg">]]></description>
-            <link>undefinedb9bf8e46-cf8d-4a6c-b318-8ba1814897c4/index.html</link>
+            <link>http://www.readerslifestyle.com/b9bf8e46-cf8d-4a6c-b318-8ba1814897c4/index.html</link>
             <guid isPermaLink="false">b9bf8e46-cf8d-4a6c-b318-8ba1814897c4</guid>
             <pubDate>Wed, 17 Feb 2016 23:06:21 GMT</pubDate>
         </item>
