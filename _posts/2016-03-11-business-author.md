@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: These are the authors that have shaped my perspective on business.
-datePublished: '2016-03-15T16:58:34.535Z'
-dateModified: '2016-03-11T19:25:51.900Z'
+datePublished: '2016-03-15T17:01:40.300Z'
+dateModified: '2016-03-15T17:01:29.155Z'
 title: Business Author
 author: []
 sourcePath: _posts/2016-03-11-business-author.md
@@ -25,8 +25,9 @@ _type: Article
 # Business Author
 
 These are the authors that have shaped my perspective on business.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd6a596b-34ff-4b57-ba80-ea6311242a4f.jpg)
 
-## John Jantsch ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd6a596b-34ff-4b57-ba80-ea6311242a4f.jpg)
+## John Jantsch 
 
 John Jantsch is a marketing consultant, speaker and best selling author Duct Tape Marketing, Duct Tape Selling, The Commitment Engine and The Referral Engine.
 
